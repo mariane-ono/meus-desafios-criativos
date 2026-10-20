@@ -2,11 +2,16 @@ Atue como um especialista em n8n.
 
 Crie uma automação para confirmação de inscrição em um evento. 
 
-**Público: Organizadores de eventos, palestras e workshops.** 
+# **Público:**
 
-**Ferramentas envolvidas: Google Forms, Google Sheets e Gmail.** 
+Organizadores de eventos, palestras e workshops.
 
-**Fluxo Desejado:**
+# **Ferramentas envolvidas:** 
+
+Google Forms, Google Sheets e Gmail. 
+
+# **Fluxo Desejado:**
+
 1 - Receber uma nova inscrição por meio do Google Forms.
 
 2 - Registrar automaticamente os dados do participante no Google Sheets. 
@@ -15,7 +20,7 @@ Crie uma automação para confirmação de inscrição em um evento.
 
 4 - Enviar um e-mail de confirmação de inscrição. 
 
-**Regras Importantes:**
+# **Regras Importantes:**
 1 - Ignorar inscrições sem e-mail válido.
 
 2 - Registrar os dados de cada participante no Google Sheets. 
@@ -27,7 +32,7 @@ Crie uma automação para confirmação de inscrição em um evento.
 5 - Informar no e-mail os detalhes do evento. 
 
  
-**Nós a serem utilizados no n8n e a lógica de funcionamento.**
+# **Nós a serem utilizados no n8n e a lógica de funcionamento.**
 
 
 Google Forms - O participante preenche o formulário com os dados necessários para realizar a inscrição.
